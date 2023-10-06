@@ -4,7 +4,7 @@ import React from 'react';
 export default function App() {
   return (
     <View>
-      <Text>Hello React Native</Text>
+      <Text>Password Generator</Text>
     </View>
   );
 }
